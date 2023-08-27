@@ -1,0 +1,16 @@
+body {
+  background-color: #232946;
+
+}
+
+::selection {
+  color: white;
+  background: #223a6f
+}
+
+.iconButton{
+  transition: .2s;
+}
+.iconButton:hover{
+  color: red;
+}
